@@ -1,6 +1,6 @@
 ### Olá, me chamo Giuliano e sou desenvolvedor fullstack !
 
-- 💻 Atualmente trabalho com o desenvolvimento de APIs em .NET core e dando suporte em sistemas legado em ASP clássico.
+- 💻 Atualmente trabalho com o desenvolvimento de APIs em .NET core e dando suporte em sistemas que utilizam ASP.NET CORE.
 - 📖 Atualmente estou estudando javascript (ReactJS, ReactNative).
 - 📫 Como me contatar: juka2027@live.com
 
